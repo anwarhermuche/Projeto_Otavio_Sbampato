@@ -22,4 +22,7 @@ public class A {
         System.out.println("Alteração a classe A partir do clone");
     }
 
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
 }
